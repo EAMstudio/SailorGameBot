@@ -1,0 +1,2 @@
+# SailorGameBot
+Telegram game bot.
